@@ -1,10 +1,6 @@
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/big-data-europe/Lobby)
+# Hadoop para Grandes Volumenes de Datos con Docker 
 
-# Changes
-
-Version 2.0.0 introduces uses wait_for_it script for the cluster startup
-
-# Hadoop Docker
+Esta es una serie de ejercicios realizados para el análisis de datos usando Map-Reduce de Hadoop en combinación con Docker
 
 ## Supported Hadoop Versions
 See repository branches for supported hadoop versions
